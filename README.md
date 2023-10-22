@@ -34,4 +34,6 @@ decisions which YouTube videos are trending.
     to be determined what data we need to store and for how long as the data is readily available through YouTube API.
 
 ### Data Analysis and Visualization Plan
-    Our group plans to analyze the data in a way that we can understand the most trending videos in a certain time period (for example by looking at the number of views in that time period) or the most liked videos of the day, etc. We plan on presenting these videos using a graph and a table with links to each of the videos. This will be done using flask and python
+    Our group plans to analyze the data in a way that we can understand the most trending videos in a certain time period 
+    (for example by looking at the number of views in that time period) or the most liked videos of the day, etc. We plan on 
+    presenting these videos using a graph and a table with links to each of the videos. This will be done using flask and python
