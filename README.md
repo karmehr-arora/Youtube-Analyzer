@@ -2,16 +2,16 @@
 This is the final project for CS 122 Advanced Python
 
 
-# # Project Title:
+## Project Title:
 YouTube Analyzer
 
-# # Authors
+## Authors
 Karmehr Arora, Alfred Koh
 
-# # Project Description (5 Sentences)
+## Project Description (5 Sentences)
 
 
-# # Project Outline/Plan
+## Project Outline/Plan
 
     Interface Plan
 
