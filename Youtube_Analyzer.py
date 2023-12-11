@@ -81,8 +81,8 @@ def matchVideoIDToTrendTotal(videoIDs, set_of_trend_totals):
         count = count + 1
     return video_id_to_trend_total
 
-def getThumbnail(video):
-    return video['snippet']['thumbnails']['high']['url']
+def getThumbnail(video, collection_of_video_data):
+    return collection_of_video_data[video]['items'][0]['snippet']['thumbnails']['high']['url']
 
 def sortVideos(video_id_to_trend_total):
     return sorted(video_id_to_trend_total.items(), key=lambda x: x[1], reverse=True)[:10]
